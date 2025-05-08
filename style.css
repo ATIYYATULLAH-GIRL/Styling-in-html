@@ -1,0 +1,21 @@
+*
+    h1{
+        color: hotpink;
+        font-size: 100;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
+        font-stretch: wider;
+    }
+    h3{
+        color: rgb(225, 238, 104);
+        background-color: green;
+        font-size: medium;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    h2{
+        color: gold;
+        background-color: brown;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 200;
+        font-style: italic;  
+}
